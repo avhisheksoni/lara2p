@@ -38,6 +38,6 @@ class dashboardcontroller extends Controller
 
    public function sampleform(){
 
-     return "ewetw";
+     return "gitpower";
    }
 }
